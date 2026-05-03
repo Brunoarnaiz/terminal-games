@@ -35,6 +35,9 @@ Cada juego está en su propia carpeta dentro de `juegos/`. Para empezar a jugar:
 ```bash
 # Blackjack 🃏
 python3 juegos/blackjack/blackjack.py
+
+# Marcianitos 👾
+python3 juegos/marcianitos/marcianitos.py
 ```
 
 Y listo. Sin instalar nada más.
@@ -46,6 +49,7 @@ Y listo. Sin instalar nada más.
 | Juego | Carpeta | Estado |
 |-------|---------|--------|
 | Blackjack | `juegos/blackjack/` | ✅ Listo |
+| Marcianitos | `juegos/marcianitos/` | ✅ Listo |
 
 > Más juegos en camino... 🚧
 
